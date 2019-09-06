@@ -10,7 +10,8 @@ function App() {
         <p>
           Oh yeah! <b>It's working alright!</b>
           <br />
-          All is well again... doesn't seem to deal with tests though...
+          We're making{" "}
+          <b>good PROGRESS! Making a change on the feature branch.</b>
         </p>
         <a
           className="App-link"
